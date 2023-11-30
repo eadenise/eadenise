@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eadenise
-- 👀 I’m interested in audio programming and machine learning
+- 👀 I’m interested in audio programming 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on audio-related projects
 - 📫 How to reach me ...
