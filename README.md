@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eadenise
-- 👀 I’m interested in audio programming 
+- 👀 I’m interested in audio programming, data science and data semantics for audio
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on audio-related projects
 - 📫 How to reach me: Kindly contact me at azucena.den@gmail.com
