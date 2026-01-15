@@ -1,6 +1,6 @@
  Hi, I’m Denise
 - I’m interested in analysis, data pipelines and insights in the audio, media, and publishing fields
-- I’m currently learning AI and Data Science for Audio applications 
+- Skills: Python (Pytorch, Tensorflow, Numpy, Librosa, Pandas), SQL (PostgreSQL), C++ (Juice)
 - I’m looking to collaborate on audio-related or game-related projects
 - How to reach me: Kindly contact me at azucena.den@gmail.com
 
