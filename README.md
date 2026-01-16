@@ -1,6 +1,13 @@
  Hi, I’m Denise
 - I’m interested in analysis, data pipelines and insights in the audio, media, and publishing fields
-- Skills: Python (Pytorch, Tensorflow, Numpy, Librosa, Pandas), SQL (PostgreSQL), C++ (Juice)
+- Skills:
+   - Python: PyTorch, TensorFlow, scikit-learn, HuggingFace
+   - SQL: PostgreSQL, MySQL
+   - Databases: MongoDB
+   - ETL: Apache Spark
+   - Datalake/Warehousing: Snowflake
+   - Infrastructure & DevOps: Docker, AWS (S3), Git, Github, Bash
+   
 - I’m looking to collaborate on audio-related or game-related projects
 - How to reach me: Kindly contact me at azucena.den@gmail.com
 
