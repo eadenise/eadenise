@@ -3,7 +3,7 @@
 - Skills:
    - Python: PyTorch, TensorFlow, scikit-learn, HuggingFace
    - SQL: PostgreSQL, MySQL
-   - Databases: MongoDB
+   - Databases: MongoDB (NoSQL)
    - ETL: Apache Spark
    - Datalake/Warehousing: Snowflake
    - Infrastructure & DevOps: Docker, AWS (S3), Git, Github, Bash
