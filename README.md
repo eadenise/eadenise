@@ -5,7 +5,7 @@
    - SQL: PostgreSQL, MySQL
    - Databases: MongoDB (NoSQL)
    - ETL: Apache Spark
-   - Infrastructure & DevOps: Docker, BigQuery, AWS (S3), Git, Github, Bash
+   - Infrastructure & DevOps: Docker, AWS (S3), Git, Github, Bash
    
 - I’m looking to collaborate on audio-related or game-related projects
 - How to reach me: Kindly contact me at azucena.den@gmail.com
