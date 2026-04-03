@@ -1,10 +1,11 @@
  Hi, I’m Denise
 - I’m interested in analysis, data pipelines and insights in the audio, media, and publishing fields
 - Skills:
-   - Python: PyTorch, TensorFlow, scikit-learn, HuggingFace
+   - Python: PyTorch, TensorFlow, scikit-learn, HuggingFace, librosa, matplotlib, numpy
+   - C++: Juice, Cmake
    - SQL: PostgreSQL, Microsoft SQL Server
-   - Databases: MongoDB (NoSQL)
-   - ETL: Apache Spark
+   - ELT: dbt
+   - Data Warehouse: Snowflake, BigQuery
    - Infrastructure & DevOps: Docker, AWS (S3), Git, Github, Bash, GCP
    
 - I’m looking to collaborate on audio-related or game-related projects
