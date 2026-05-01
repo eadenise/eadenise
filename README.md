@@ -5,7 +5,7 @@
    - C++
    - SQL: PostgreSQL, Microsoft SQL Server
    - ELT: dbt
-   - Data Warehouse:  BigQuery
+   - Data Warehouse:  Snowflake, BigQuery
    - Infrastructure & DevOps: Docker, AWS (S3), Git, Github, Bash, GCP
    - Databases: PostgreSQL, MongoDB
    
