@@ -7,7 +7,6 @@
    - Data Warehouse:  Snowflake, BigQuery
    - Infrastructure & DevOps: Docker, AWS (S3), Git, Github, Bash, GCP
    - Databases: PostgreSQL, MongoDB
-   - MLOps: MLFlow
    
 - I’m looking to collaborate on audio-related or game-related projects
 - How to reach me: Kindly contact me at eadenise@proton.me
