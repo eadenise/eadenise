@@ -4,9 +4,9 @@
    - Python: PyTorch, TensorFlow, scikit-learn, HuggingFace, librosa, matplotlib, numpy
    - C++
    - SQL: PostgreSQL, Microsoft SQL Server
-   - Data Warehouse:  Snowflake, BigQuery
+   - Backend: FastAPI
    - Infrastructure & DevOps: Docker, AWS (S3), Git, Github, Bash, GCP
-   - Databases: PostgreSQL, MongoDB
+   - Databases: PostgreSQL, Redis, Neo4j
    
 - I’m looking to collaborate on audio-related or game-related projects
 - How to reach me: Kindly contact me at eadenise@proton.me
