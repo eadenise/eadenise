@@ -2,7 +2,7 @@
 - I’m interested in building audio solutions to deploy in adtech, media and publishing fields.
 - Skills:
    - Python: PyTorch, TensorFlow, scikit-learn, HuggingFace, librosa, matplotlib, numpy
-   - C++
+   - C++: CMake, JUCE
    - SQL: PostgreSQL, Microsoft SQL Server
    - Backend: FastAPI
    - Infrastructure & DevOps: Docker, AWS (S3), Git, Github, Bash, GCP
