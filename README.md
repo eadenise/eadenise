@@ -3,10 +3,9 @@
 - Skills:
    - Python: PyTorch, TensorFlow, scikit-learn, HuggingFace, librosa, matplotlib, numpy
    - C++: CMake, JUCE
-   - SQL: PostgreSQL, Microsoft SQL Server
+   - SQL: PostgreSQL
    - Infrastructure & DevOps: Docker, AWS (S3), Git, Github, Bash, GCP
-   - Databases: PostgreSQL
-   
+
 - I’m looking to collaborate on audio-related or game-related projects
 - How to reach me: Kindly contact me at eadenise@proton.me
 
