@@ -1,5 +1,5 @@
  Hi, I’m Denise
-- I’m interested in building audio solutions to deploy in adtech, media and publishing fields.
+- I’m interested in building audio solutions to deploy in embedded systems
 - Skills:
    - Python: PyTorch, TensorFlow, scikit-learn, HuggingFace, librosa, matplotlib, numpy
    - C++: CMake, JUCE
