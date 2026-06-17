@@ -4,6 +4,8 @@
    - Python: PyTorch, TensorFlow, scikit-learn, HuggingFace, librosa, matplotlib, numpy
    - C++: CMake, JUCE
    - SQL: PostgreSQL
+   - NoSQL: Redis
+   - Back-end: FastAPI, Django
    - Infrastructure & DevOps: Docker, AWS (S3), Git, Github, Bash, GCP
 
 - I’m looking to collaborate on audio-related or game-related projects
