@@ -1,5 +1,5 @@
  Hi, I’m Denise
-- I’m interested in building audio solutions to deploy in embedded systems
+- I’m interested in building audio solutions, recommendation systems, and multi-modal human-ai interaction.
 - Skills:
    - Python: PyTorch, TensorFlow, scikit-learn, HuggingFace, librosa, matplotlib, numpy
    - C++: CMake, JUCE
